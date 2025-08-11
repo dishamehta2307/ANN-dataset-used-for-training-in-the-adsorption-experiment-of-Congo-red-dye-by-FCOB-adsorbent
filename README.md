@@ -1,0 +1,1 @@
+# ANN-dataset-used-for-training-in-the-adsorption-experiment-of-Congo-red-dye-by-FCOB-adsorbent
